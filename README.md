@@ -2,6 +2,10 @@
 
 A sleek, modern Android Scientific Calculator application built with **Java**, **Android XML**, and **Material Design 3** components, featuring a custom mathematical expression parsing engine for evaluating complex expressions.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/014c081e-37f9-4e94-b078-be697636e337" width="300" alt="Scientific Calculator App">
+</p>
+
 ## ✨ Features
 
 ### 🔢 Standard & Scientific Operations
@@ -31,22 +35,17 @@ A sleek, modern Android Scientific Calculator application built with **Java**, *
 
 ## 📱 Pre-built Testing APK
 
-A ready-to-test **Debug APK** is available for direct testing on Android devices without requiring a separate build setup.
+A pre-built **Debug APK** is included in this repository for direct testing on Android devices without requiring Android Studio or a local build setup.
 
 ### Quick Test / Direct Installation
 
-The debug APK is generated at:
+1. Download the [`Scientific Calci.apk`](Scientific%20Calci.apk) file from this repository.
+2. Transfer the APK to your Android phone using USB, Google Drive, messaging apps, or another method.
+3. Open `Scientific Calci.apk` on your device.
+4. Follow the installation prompts.
+5. If prompted, allow installation from unknown sources for the application used to open the APK.
 
-    app/build/outputs/apk/debug/app-debug.apk
-
-To install the APK:
-
-1. Transfer the `.apk` file to your Android phone using USB, Google Drive, messaging apps, or another method.
-2. Open the APK on your device.
-3. Follow the installation prompts.
-4. If prompted, allow installation from unknown sources for the application used to open the APK.
-
-> **Note:** If a pre-built APK is attached to a GitHub Release, it can also be downloaded from the repository's **Releases** section.
+> **Note:** This is a debug build intended for testing and demonstration purposes.
 
 ## 📂 Project Structure
 
@@ -247,9 +246,3 @@ Gradle manages the required dependencies automatically when the project is opene
 The project is intentionally kept lightweight and uses a **custom mathematical parser** instead of relying on an external expression-evaluation library.
 
 This keeps the expression-processing logic self-contained within the application and provides an example of implementing mathematical expression parsing in Java.
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-See the [`LICENSE`](LICENSE) file for the complete license text.
