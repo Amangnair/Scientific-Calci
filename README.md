@@ -247,9 +247,3 @@ Gradle manages the required dependencies automatically when the project is opene
 The project is intentionally kept lightweight and uses a **custom mathematical parser** instead of relying on an external expression-evaluation library.
 
 This keeps the expression-processing logic self-contained within the application and provides an example of implementing mathematical expression parsing in Java.
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-See the [`LICENSE`](LICENSE) file for the complete license text.
