@@ -39,7 +39,7 @@ A pre-built **Debug APK** is included in this repository for direct testing on A
 
 ### Quick Test / Direct Installation
 
-1. Download the [`Scientific Calci.apk`](Scientific%20Calci.apk) file from this repository.
+1. Download the `Scientific Calci.apk` file from this repository.
 2. Transfer the APK to your Android phone using USB, Google Drive, messaging apps, or another method.
 3. Open `Scientific Calci.apk` on your device.
 4. Follow the installation prompts.
