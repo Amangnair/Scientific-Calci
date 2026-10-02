@@ -1,0 +1,40 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+.gradle/
+.externalNativeBuild
+.cxx
+
+# Android Studio / IntelliJ project files
+.idea/
+*.iml
+*.iws
+*.ipr
+captures/
+
+# Gradle local properties (contains local SDK paths, API keys, etc.)
+local.properties
+
+# Android Studio Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Profiler & Debugging
+*.hprof
